@@ -12,6 +12,7 @@
     "plugin:vue/recommended"
   ],
   "rules": {
+    "import/no-unresolved": "off",
     "no-lonely-if": "off",
     "quotes": [
       "error", 
