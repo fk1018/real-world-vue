@@ -12,6 +12,7 @@
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.1.2",
+    "@vue/cli-service": "^3.0.5",
     "babel-eslint": "^10.0.1",
     "babel-loader": "^8.0.4",
     "babel-preset-vue": "^2.0.2",
@@ -20,7 +21,8 @@
     "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-vue": "^4.7.1",
     "http-server": "^0.11.1",
-    "@vue/cli-service": "^3.0.5",
+    "pug": "^2.0.3",
+    "pug-plain-loader": "^1.0.0",
     "vue-template-compiler": "^2.5.17"
   },
   "dependencies": {
